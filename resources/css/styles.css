@@ -1,0 +1,18 @@
+nav { float: left;
+    width: 90px;}
+
+main {margin-left: 100px}
+
+.button { border-radius:60px;
+    padding: 1em;
+    color: #FFFFFF;
+    background-color: #696969;
+    font-family: serif;
+    font-size: 2em;
+    font-weight: bold;
+    align-content: center;
+    text-decoration: none;}
+.button:link {color: #FFFFFF}
+.button:visited {color: #CCCCCC}
+.button:hover {color: #965251;
+               background-color: #f7dee1}
